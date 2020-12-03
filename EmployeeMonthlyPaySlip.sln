@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.30517.126
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeMonthlyPaySlip", "EmployeeMonthlyPaySlip.csproj", "{9E3128C8-4E55-4552-AD21-55C3C6E6F105}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeMonthlyPaySlipXUnitTests", "..\EmployeeMonthlyPaySlipXUnitTests\EmployeeMonthlyPaySlipXUnitTests.csproj", "{C3BB78FE-9A32-4B62-8FEE-5ADC98F8679E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeMonthlyPaySlipXUnitTests", "EmployeeMonthlyPaySlipXUnitTests\EmployeeMonthlyPaySlipXUnitTests.csproj", "{C3BB78FE-9A32-4B62-8FEE-5ADC98F8679E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
